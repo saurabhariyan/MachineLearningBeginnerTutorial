@@ -31,17 +31,25 @@ Topics Covered :
     
 * Introduction to Machine Learning. (The 7 steps of machine learning)
 
-* Algorithms of Machine Learning
-    * Supervised Learning vs Unsupervised Learning (10 real life examples, ask them to guess which example will fall where)
+* Supervised Learning vs Unsupervised Learning (10 real life examples, ask them to guess which example will fall where) 
+
+* Algorithms of Machine Learning (deatil any 5)
     * Clustering 
     * Classification
     * Regression 
+    * Cross Validation (CV)
     * Decision Tree
     * Naive Bayes
     * Esamble Learning 
+    * EDA(Exploratory Data Analysis)
+    * K-Nearest Neighbors (KNN)
+    * K means Clustering
+    * ROC Curve
+    * Hyperparameter Tuning
+    * Principle Component Analysis (PCA)
     
 * Lead them to solve atleast one projects from the following 
    * Just apply any one of the library algorithm for Importing data cleaning data, splitting it into train/test or cross-validation sets, pre-processing, transformations, feature engineering
-   * Predict Stock Prices [Forecasting, Time Series Data]
-   * Teach a Neural Network to Read Handwriting [Deep Learning] 
-   * Investigate Enron [Anomaly detection, Social network analysis, Natural language processing]
+   * Predict Stock Prices (Forecasting, Time Series Data)
+   * Teach a Neural Network to Read Handwriting (Deep Learning) 
+   * Investigate Enron (Anomaly detection, Social network analysis, Natural language processing)
