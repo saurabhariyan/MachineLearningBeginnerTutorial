@@ -7,3 +7,4 @@
 - [Stastistical Tests](https://machinelearningmastery.com/statistical-hypothesis-tests-in-python-cheat-sheet)
 - [Reinforcement Learning](https://www.toptal.com/deep-learning/pytorch-reinforcement-learning-tutorial)
 - [QnA](https://towardsdatascience.com/building-a-question-answering-system-part-1-9388aadff507)
+- [Pandas](https://www.machinelearningplus.com/python/101-pandas-exercises-python/)
