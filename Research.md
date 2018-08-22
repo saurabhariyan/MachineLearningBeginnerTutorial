@@ -9,6 +9,7 @@
 - [QnA](https://towardsdatascience.com/building-a-question-answering-system-part-1-9388aadff507)
 - [Pandas](https://www.machinelearningplus.com/python/101-pandas-exercises-python/)
 - [Introduction to matplotlib](https://heartbeat.fritz.ai/introduction-to-matplotlib-data-visualization-in-python-d9143287ae39)
+- [Traffic Aciddents in London](http://machineloveus.com/data-is-beautiful-traffic-accidents-in-the-uk/)
 - [climate patterns](https://www.dataquest.io/blog/climate-temperature-spirals-python)
 
 - [coding a CNN to play google Dino game](https://www.youtube.com/watch?v=v9YwegSFyKI)
