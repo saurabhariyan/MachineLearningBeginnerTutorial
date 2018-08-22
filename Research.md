@@ -8,3 +8,4 @@
 - [Reinforcement Learning](https://www.toptal.com/deep-learning/pytorch-reinforcement-learning-tutorial)
 - [QnA](https://towardsdatascience.com/building-a-question-answering-system-part-1-9388aadff507)
 - [Pandas](https://www.machinelearningplus.com/python/101-pandas-exercises-python/)
+- [Introduction to matplotlib](https://heartbeat.fritz.ai/introduction-to-matplotlib-data-visualization-in-python-d9143287ae39)
