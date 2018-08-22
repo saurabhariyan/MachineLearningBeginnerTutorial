@@ -5,3 +5,4 @@
 - [all about nlp](https://towardsdatascience.com/a-practitioners-guide-to-natural-language-processing-part-i-processing-understanding-text-9f4abfd13e72)
 
 - [Stastistical Tests](https://machinelearningmastery.com/statistical-hypothesis-tests-in-python-cheat-sheet)
+- [Reinforcement Learning](https://www.toptal.com/deep-learning/pytorch-reinforcement-learning-tutorial)
