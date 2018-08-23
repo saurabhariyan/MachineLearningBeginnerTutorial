@@ -13,3 +13,4 @@
 - [climate patterns](https://www.dataquest.io/blog/climate-temperature-spirals-python)
 
 - [coding a CNN to play google Dino game](https://www.youtube.com/watch?v=v9YwegSFyKI)
+- [Video Processing in Python](http://sunnybala.com/2017/05/28/python-video-loop-detection.html)
