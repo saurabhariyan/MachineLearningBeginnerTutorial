@@ -11,6 +11,6 @@
 - [Introduction to matplotlib](https://heartbeat.fritz.ai/introduction-to-matplotlib-data-visualization-in-python-d9143287ae39)
 - [Traffic Aciddents in London](http://machineloveus.com/data-is-beautiful-traffic-accidents-in-the-uk/)
 - [climate patterns](https://www.dataquest.io/blog/climate-temperature-spirals-python)
-
+- [text Processing in python](https://medium.com/click-bait/text-classification-using-machine-learning-cff96602c264)
 - [coding a CNN to play google Dino game](https://www.youtube.com/watch?v=v9YwegSFyKI)
 - [Video Processing in Python](http://sunnybala.com/2017/05/28/python-video-loop-detection.html)
