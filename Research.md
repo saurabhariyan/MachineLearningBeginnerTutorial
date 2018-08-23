@@ -14,3 +14,4 @@
 - [text Processing in python](https://medium.com/click-bait/text-classification-using-machine-learning-cff96602c264)
 - [coding a CNN to play google Dino game](https://www.youtube.com/watch?v=v9YwegSFyKI)
 - [Video Processing in Python](http://sunnybala.com/2017/05/28/python-video-loop-detection.html)
+- [Stocks Rating Verification](http://blog.ayoungprogrammer.com/2017/05/stocks-with-outperform-ratings-beats-market.html/)
