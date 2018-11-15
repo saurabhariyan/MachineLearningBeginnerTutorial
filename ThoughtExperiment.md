@@ -8,6 +8,17 @@ Future is already here:
 -  https://www.sciencedirect.com/science/article/pii/S0896627317305093
 -  [The Artificial Life Route to Artificial Intelligence Building Embodied, Situated Agents: Paywalled](https://www.taylorfrancis.com/books/e/9781351001878)
 
+-   [Netflix alogrithm](https://www.semanticscholar.org/paper/The-Netflix-Recommender-System%3A-Algorithms%2C-Value%2C-Gomez-Uribe-Hunt/e9dd899f0e599eafb4fe47696c83d07d971c0088) : decides 60% of the movies being rented. Name of the algorithm? 
+
+- If this recommendation starts happening before the movie being made?  
+
+- algorithm speed : the 1325 Km trench between Chicago and New York for the financial algo to be faster .  13.3 ms spread Networks. 37 times faster than you can click a mouse. 
+
+- [marI/O](https://www.youtube.com/watch?v=qv6UVOQ0F44) and google alpha Go, and deep blue 
+- [fei fei](https://youtu.be/XlnbNFW2tX8?t=68) watch at 1.5x
+- [fei fei, 2015](https://www.youtube.com/watch?v=40riCqvRoMs)
+- [Playing Mario with optimsation for finding new universe](https://arxiv.org/pdf/1705.05363.pdf)
+
 
 
 Comparison with exsisting tech 
@@ -20,6 +31,7 @@ All of them are result of connectivity being easy. Faster and cheap internet and
 
 We have not yet seen the first order effects of machine learning and artificial intellegnece in action. 
 Imagining a world where the second order effects is still kinda weird. 
+ - [ctrl F in real world](https://twitter.com/rrhoover/status/1060811172067328006)
 
 
 Thought experiments: 
